@@ -4,7 +4,7 @@ const CardWidget = () => {
     return (
     <div>
         <botton>
-        <BsCart2 />
+        <BsCart2 /><strong>1</strong>
         </botton>      
     </div>
     )
