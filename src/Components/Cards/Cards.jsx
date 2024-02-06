@@ -1,7 +1,9 @@
+import "./Cards.css"
+
 const Cards = ({img, title, description, price}) => {
     return (
         <div>
-            <img src={img}/>
+            <img className='img-card' src={img}/>
             <h3>{title}</h3>
             <p>{description}</p>
             <p>$ {price}</p>
