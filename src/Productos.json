@@ -3,73 +3,29 @@
         "id": 1,
         "img": "https://www.nintendo.com/sg/hardware/detail/switch-oled/img/01-bgdark/main_pic.png",
         "title": "Nintendo Switch Oled 64gb Standard Color Blanco Y Negro",
-        "description":   "Con tu consola Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.
-
-        Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online.
-        
-        Los Joy-con cuentan con botones especiales para realizar print de pantalla. Además, posee una cámara infrarroja que puede leer la distancia respecto a los objetos e incluso detectar formas.
-        
-        Adaptada a tus necesidades
-        Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 64 GB.
-        Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.
-        Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás.
-        
-        Vas a poder reproducir música, ver tus películas y series favoritas a través de las aplicaciones descargables.",
+        "description":"Con tu consola Switch tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. Switch se convirtió en una de las consolas más versátiles del mercado gracias a su uso portátil y de sobremesa. Nintendo desarrolló este modelo con el objetivo de tener todas las comodidades de la tecnología de elite en un aparato portátil con el que podrás jugar y disfrutar de diverso contenido online. Los Joy-con cuentan con botones especiales para realizar print de pantalla. Además, posee una cámara infrarroja que puede leer la distancia respecto a los objetos e incluso detectar formas. Adaptada a tus necesidades Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 64 GB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición. Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás. Vas a poder reproducir música, ver tus películas y series favoritas a través de las aplicaciones descargables.",
         "stock": 30,
         "price": 600000,
         "category": "consolas"
-    }
+    },
     {
         "id": 2,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_728098-MLU74225053885_012024-F.webp",
         "title": "Consola Xbox Series X 1tb Ssd 120 Hz 4k Con Lector De Disco Color Negro", 
-        "description":"12 TERAFLOPS DE POTENCIA
-        Los 12 teraflops de potencia de procesamiento alojados en el sistema en un chip (SOC) funcionan con las arquitecturas Zen 2 y RDNA 2 de AMD para dar como resultado mundos que exigen una mirada más cercana.
-        
-        MEJOR ASPECTO. MEJOR JUEGO.
-        Equipado con las arquitecturas Zen 2 y RDNA 2 de AMD, DirectX Raytracing ofrece iluminación realista, sombras y reflejos precisos para crear mundos dinámicos y vivos.
-        
-        ESCUCHA... ESTÁS RODEADO.
-        El sonido espacial 3D es la siguiente evolución de la tecnología de audio, que utiliza algoritmos avanzados para crear mundos envolventes realistas que te sitúan en el centro de la experiencia.
-        
-        JUEGOS EN AUTÉNTICO 4K
-        La Xbox Series X ofrece velocidades de cuadro sensacionalmente suaves de hasta 120 FPS con la explosión visual que ofrece HDR. Sumérgete con personajes más nítidos, mundos más brillantes y detalles imposibles con auténtico 4K.
-        
-        DISEÑADO PARA LA VELOCIDAD
-        En conjunto, el nuevo sistema en un chip (SOC) y la solución Xbox Velocity Architecture ponen la velocidad al alcance de la mano, y el SSD personalizado de 1TB y la CPU ponen el volante en las manos, para que puedas ir de 0 a 60 en hasta 120 FPS.
-        
-        Tiempos de carga más rápidos.
-        Ultrarrápido. Los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series X.
-        
-        Más tiempo jugando, menos tiempo esperando.
-        Con Reanudación rápida, puedes cambiar sin problemas entre varios títulos diferentes y reanudar instantáneamente desde donde lo dejaste.",
+        "description": "12 TERAFLOPS DE POTENCIA Los 12 teraflops de potencia de procesamiento alojados en el sistema en un chip (SOC) funcionan con las arquitecturas Zen 2 y RDNA 2 de AMD para dar como resultado mundos que exigen una mirada más cercana. MEJOR ASPECTO. MEJOR JUEGO. Equipado con las arquitecturas Zen 2 y RDNA 2 de AMD, DirectX Raytracing ofrece iluminación realista, sombras y reflejos precisos para crear mundos dinámicos y vivos. ESCUCHA... ESTÁS RODEADO. El sonido espacial 3D es la siguiente evolución de la tecnología de audio, que utiliza algoritmos avanzados para crear mundos envolventes realistas que te sitúan en el centro de la experiencia. JUEGOS EN AUTÉNTICO 4K La Xbox Series X ofrece velocidades de cuadro sensacionalmente suaves de hasta 120 FPS con la explosión visual que ofrece HDR. Sumérgete con personajes más nítidos, mundos más brillantes y detalles imposibles con auténtico 4K. DISEÑADO PARA LA VELOCIDAD En conjunto, el nuevo sistema en un chip (SOC) y la solución Xbox Velocity Architecture ponen la velocidad al alcance de la mano, y el SSD personalizado de 1TB y la CPU ponen el volante en las manos, para que puedas ir de 0 a 60 en hasta 120 FPS. Tiempos de carga más rápidos. Ultrarrápido. Los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series X. Más tiempo jugando, menos tiempo esperando. Con Reanudación rápida, puedes cambiar sin problemas entre varios títulos diferentes y reanudar instantáneamente desde donde lo dejaste.",
         "stock": 20,
         "price": 980000,
         "category": "consolas"
-    }
+    },
     {
         "id": 3,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_846300-MLA74224849899_012024-F.webp",
         "title": "Sony PlayStation 5 825GB Digital Edition color blanco y negro",
-        "description": "Con tu consola PlayStation 5 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos.
-
-        PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos.
-        
-        Calidad de otro nivel
-        Se considera que esta consola es de las mejores dentro del mercado, dado que presenta una resolución de hasta 4K.
-        
-        Además, el control DualSense para PS5 combina estilo y tecnología para que jugar sea más cómodo e interactivo para todos sus jugadores.
-        
-        Adaptada a tus necesidades
-        Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 825 GB.
-        Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición.
-        Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás.
-        
-        Vas a poder reproducir música, ver tus películas y series favoritas a través de las aplicaciones descargables.",
+        "description": "Con tu consola PlayStation 5 tendrás entretenimiento asegurado todos los días. Su tecnología fue creada para poner nuevos retos tanto a jugadores principiantes como expertos. PlayStation renovó las expectativas del mundo virtual con esta nueva consola y su gran rendimiento. Cuenta con una interfaz de usuario más rápida y fácil de navegar que en anteriores modelos. Además, podrás jugar durante horas desafiando a millones de contrincantes alrededor del mundo que esperan nuevos retos. Calidad de otro nivel Se considera que esta consola es de las mejores dentro del mercado, dado que presenta una resolución de hasta 4K. Además, el control DualSense para PS5 combina estilo y tecnología para que jugar sea más cómodo e interactivo para todos sus jugadores. Adaptada a tus necesidades. Guardá tus apps, fotos, videos y mucho más en el disco duro, que cuenta con una capacidad de 825 GB. Al contar con un procesador de 8 núcleos y uno gráfico, brinda una experiencia dinámica, respuestas ágiles, y transiciones fluidas de imágenes en alta definición. Por otro lado, tiene puerto USB y salida HDMI, que permiten conectar accesorios y cargar la batería de tu control mientras jugás. Vas a poder reproducir música, ver tus películas y series favoritas a través de las aplicaciones descargables.",
         "stock": 20,
         "price": 1100000,
         "category": "consolas"
-    }
+    },
     {
         "id": 4,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_764820-MLU70610438351_072023-F.webp",
@@ -78,7 +34,7 @@
         "stock": 15,
         "price": 95000,
         "category": "games"
-    }
+    },
     {
         "id": 5,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_850327-MLA54712581525_032023-F.webp",
@@ -87,108 +43,61 @@
         "stock": 8,
         "price": 96000,
         "category": "games"
-    }
+    },
     {
         "id": 6,
         "img": "https://m.media-amazon.com/images/I/51HBCnZDlSL._SY430_SX215_QL70_FMwebp_.jpg",
         "title": "Ad Infinitum (Xbox Series X)",
-        "description": "Juega a un soldado alemán perseguido por los horrores de la Gran Guerra y rompe el ciclo del sufrimiento mientras tu mente se desplaza entre los recuerdos y las trincheras
-        Despierta como un adolescente en una casa desierta y de repente te encuentras en las trincheras rodeadas de monstruos horribles; enfrenta tu trauma y demonios
-        Para escapar de las trampas mortales y criaturas aterradoras debes entender a cada monstruo y resolver los rompecabezas que se interponen en tu camino
-        Retira el sudario que esconde los secretos de tu familia destrozados por la Gran Guerra y trata de recordar tu pasado
-        A través de la exploración y la resolución de acertijos entre las paredes de su casa y el alambre de púas de la tierra de nadie, revela una familia alemana devastada por la guerra",
+        "description": "Juega a un soldado alemán perseguido por los horrores de la Gran Guerra y rompe el ciclo del sufrimiento mientras tu mente se desplaza entre los recuerdos y las trincheras Despierta como un adolescente en una casa desierta y de repente te encuentras en las trincheras rodeadas de monstruos horribles; enfrenta tu trauma y demonios Para escapar de las trampas mortales y criaturas aterradoras debes entender a cada monstruo y resolver los rompecabezas que se interponen en tu camino Retira el sudario que esconde los secretos de tu familia destrozados por la Gran Guerra y trata de recordar tu pasado A través de la exploración y la resolución de acertijos entre las paredes de su casa y el alambre de púas de la tierra de nadie, revela una familia alemana devastada por la guerra",
         "stock": 6,
         "price": 50000,
         "category": "games"
-    }
+    },
     {
         "id": 7,
         "img": "https://m.media-amazon.com/images/I/61jy0Nf4Z3L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
         "title": "EA SPORTS FC 24 - EDICIÓN ESTÁNDAR (X1+XSX) - Xbox",
-        "description": "EA SPORTS FC 24 es el próximo capítulo en un futuro más innovador del fútbol.
-        El revolucionado motor Frostbite ofrece The World's Game con detalles realistas, aportando un nuevo nivel de inmersión a cada partido.
-        Más de 19,000 jugadores con licencia completa, más de 700 equipos y más de 30 ligas jugando juntos en la experiencia de fútbol más auténtica jamás creada.
-        Siéntete más cerca del juego con tres tecnologías de vanguardia que impulsan un realismo sin igual en cada partido.",
+        "description": "EA SPORTS FC 24 es el próximo capítulo en un futuro más innovador del fútbol. El revolucionado motor Frostbite ofrece The World's Game con detalles realistas, aportando un nuevo nivel de inmersión a cada partido. Más de 19,000 jugadores con licencia completa, más de 700 equipos y más de 30 ligas jugando juntos en la experiencia de fútbol más auténtica jamás creada. Siéntete más cerca del juego con tres tecnologías de vanguardia que impulsan un realismo sin igual en cada partido.",
         "stock": 5,
         "price": 68000,
         "category": "games"
-    }
+    },
     {
         "id": 8,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_736145-MLA50145467465_052022-F.webp",
         "title": "Marvel's Spider-Man: Miles Morales Ultimate Edition Sony PS5",
-        "description": "En la última aventura del universo de Spider-Man de Marvel, el adolescente Miles Morales intenta ajustarse a su nuevo hogar mientras sigue los pasos de su mentor, Peter Parker, para convertirse en el nuevo Spider-Man. Un enfrentamiento por el poder amenaza con destruir su hogar, llevando a Miles a entender que un gran poder conlleva una gran responsabilidad. Para salvar a la Nueva York de Marvel, Miles debe adoptar el manto de Spider-Man y hacerlo suyo.
-
-        Un nuevo y vibrante hogar
-        Recorre las ciudades nevadas del nuevo vecindario ajetreado y bullicioso mientras Miles busca un sentido de pertenencia. Cuando la línea entre su vida personal y su lucha contra el crimen se vuelve muy delgada, Miles descubre a las personas en las que puede confiar y encuentra un verdadero hogar.
-        
-        El ascenso de Miles Morales
-        Miles Morales descubre poderes explosivos que lo diferencian de su mentor, Peter Parker. Domina sus ataques bioeléctricos de ráfaga de veneno y su poder de camuflaje junto con espectaculares acrobacias de lanzamiento de telarañas, accesorios y habilidades.",
+        "description": "En la última aventura del universo de Spider-Man de Marvel, el adolescente Miles Morales intenta ajustarse a su nuevo hogar mientras sigue los pasos de su mentor, Peter Parker, para convertirse en el nuevo Spider-Man. Un enfrentamiento por el poder amenaza con destruir su hogar, llevando a Miles a entender que un gran poder conlleva una gran responsabilidad. Para salvar a la Nueva York de Marvel, Miles debe adoptar el manto de Spider-Man y hacerlo suyo. Un nuevo y vibrante hogar Recorre las ciudades nevadas del nuevo vecindario ajetreado y bullicioso mientras Miles busca un sentido de pertenencia. Cuando la línea entre su vida personal y su lucha contra el crimen se vuelve muy delgada, Miles descubre a las personas en las que puede confiar y encuentra un verdadero hogar. El ascenso de Miles Morales Miles Morales descubre poderes explosivos que lo diferencian de su mentor, Peter Parker. Domina sus ataques bioeléctricos de ráfaga de veneno y su poder de camuflaje junto con espectaculares acrobacias de lanzamiento de telarañas, accesorios y habilidades.",
         "stock": 9,
         "price": 50000,
         "category": "games"
-    }
+    },
     {
         "id": 9,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_829247-MLU72628862420_112023-F.webp",
         "title": "Juego Horizon Forbidden West Ps5",
-        "description": "Con este juego de Horizon vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer.
-
-        Diversión sin fronteras
-        Podrás compartir cada juego con personas de todo el mundo, ya que es posible conectarse de manera online.",
+        "description": "Con este juego de Horizon vas a disfrutar de horas de diversión y de nuevos desafíos que te permitirán mejorar como gamer. Diversión sin fronteras Podrás compartir cada juego con personas de todo el mundo, ya que es posible conectarse de manera online.",
         "stock": 6,
         "price": 45000,
         "category": "games"
-    }
+    },
     {
         "id": 10,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_735098-MLU72572531710_112023-F.webp",
         "title": "Set de Joystick inalámbrico Nintendo Switch Joy-Con (L)/(R) Neón rojo neón y azul neón",
-        "description": "Control preciso
-        Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, podés pasar horas jugando con total confort.
-        
-        Mayor comodidad y realismo
-        Te permite jugar sin necesidad de que haya cables de por medio. Está pensado no solamente para controlar mejor tus videojuegos, sino también para aumentar su realismo y experiencia.
-        
-        Activá el Bluetooth
-        Cuenta con conexión Bluetooth de alta tecnología para usarlo en cualquier ordenador o dispositivo; ya no necesitarás de aplicaciones de terceros ni cable USB. Además, posee gran capacidad antiinterferente, fácil manejo y señal de conexión estable.", 
+        "description": "Control preciso Este mando combina funciones revolucionarias mientras conserva precisión, comodidad y exactitud en cada movimiento. Gracias a su ergonomía especialmente pensada para la posición de tu mano, podés pasar horas jugando con total confort. Mayor comodidad y realismo Te permite jugar sin necesidad de que haya cables de por medio. Está pensado no solamente para controlar mejor tus videojuegos, sino también para aumentar su realismo y experiencia. Activá el Bluetooth Cuenta con conexión Bluetooth de alta tecnología para usarlo en cualquier ordenador o dispositivo; ya no necesitarás de aplicaciones de terceros ni cable USB. Además, posee gran capacidad antiinterferente, fácil manejo y señal de conexión estable.", 
         "stock": 4,
         "price": 121000,
         "category": "accesories"
-    }
+    },
     {
         "id": 11,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_972739-MLU73114886367_112023-F.webp",
         "title": "Joystick Inalámbrico Dualsense Ps5 Grey Camo Original Color Gray camouflage",
-        "description": "Control inalámbrico DualSense para PS5
-
-        Experimenta una interacción más intensa con el innovador control de PS5™.
-        
-        Características principales:
-        
-        - Respuesta háptica inmersiva con accionadores dobles que simulan sensaciones físicas variadas.
-        - Gatillos adaptativos dinámicos que ofrecen una experiencia táctil realista al interactuar con juegos.
-        - Micrófono integrado para comunicación en línea y conector de 3,5 mm para auriculares.
-        - Botón crear para capturar y compartir momentos de juego.
-        - Diseño avanzado de dos tonos con joysticks mejorados y barra luminosa.
-        - Carga mediante USB Type-C®.
-        - Efectos de sonido de alta fidelidad emitidos directamente desde el control.
-        - Control de movimiento con acelerómetro y giroscopio integrados.
-        
-        Especificaciones técnicas:
-        
-        Modelo: CFI-ZCT1W06X
-        Dimensiones del producto: 160 x 66 x 106 (mm) / 6.3 x 2.6 x 4.2 (in)
-        Dimensiones de la caja: Aprox. 188 x 189 x 69 (mm) / 7.4 x 7.4 x 2.7 (in)
-        
-        Contenido de la caja:
-        
-        - Control inalámbrico DualSense™
-        - Manual de instrucciones",   
+        "description": "Control inalámbrico DualSense para PS5 Experimenta una interacción más intensa con el innovador control de PS5™. Características principales: - Respuesta háptica inmersiva con accionadores dobles que simulan sensaciones físicas variadas. - Gatillos adaptativos dinámicos que ofrecen una experiencia táctil realista al interactuar con juegos. - Micrófono integrado para comunicación en línea y conector de 3,5 mm para auriculares. - Botón crear para capturar y compartir momentos de juego. - Diseño avanzado de dos tonos con joysticks mejorados y barra luminosa. - Carga mediante USB Type-C®. - Efectos de sonido de alta fidelidad emitidos directamente desde el control. - Control de movimiento con acelerómetro y giroscopio integrados. Especificaciones técnicas: Modelo: CFI-ZCT1W06X Dimensiones del producto: 160 x 66 x 106 (mm) / 6.3 x 2.6 x 4.2 (in) Dimensiones de la caja: Aprox. 188 x 189 x 69 (mm) / 7.4 x 7.4 x 2.7 (in) Contenido de la caja: - Control inalámbrico DualSense™ - Manual de instrucciones",   
         "stock": 8,
         "price": 125000,
         "category": "accesories"
-    }
+    },
     {
         "id": 12,
         "img": "https://http2.mlstatic.com/D_NQ_NP_2X_863845-MLA45045608183_032021-F.webp",

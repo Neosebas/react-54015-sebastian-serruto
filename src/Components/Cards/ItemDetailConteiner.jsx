@@ -1,3 +1,4 @@
+import productos.json from '../productos.json';
 import "./Cards.css"
 
 const Cards = ({img, title, description, price}) => {
