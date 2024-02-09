@@ -1,7 +1,6 @@
 import {Link, NavLink} from 'react-router-dom';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
 import CardWidget from '../CarWidget/CardWidget';
+import './NavBar.css';
 import Logo from '../Logo/Logo';
 
 function NavBar() {
@@ -14,6 +13,7 @@ function NavBar() {
                 <NavLink to="/categoria/consoles">Consolas</NavLink>
                 <NavLink to="/categoria/games">Juegos</NavLink>
                 <NavLink to="/categoria/accesories">Accesorios</NavLink>
+                <CardWidget />
             </nav>
         </header>
 

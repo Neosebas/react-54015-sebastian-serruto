@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import productosJson from '../../productos.json';
+import ItemList from '../ItemList/ItemList';
 import './ItemListConteiner.css'
 
 function asyncMock(categoryId) {
@@ -13,10 +14,10 @@ function asyncMock(categoryId) {
           return item.category === categoryId;
         })
         resolve (productsFilter)
-      };
+      }
     }, 1000);
   });
-};
+}
 
 
 const ItemListConteiner = ({greeting}) => {
@@ -31,17 +32,7 @@ const ItemListConteiner = ({greeting}) => {
   
       <main>
           <h1 className='welcome'>{greeting}</h1>
-          <section>
-          
-            {productos.map((item) => (
-              <div key={item.id}>
-              <img src={item.img} />
-              <h2>{item.title}</h2>
-              <p>Precio $ {item.price}</p>
-              </div>
-            ))};
-        
-          </section>
+          <ItemList productos={productos}/>
       </main>
   
   )

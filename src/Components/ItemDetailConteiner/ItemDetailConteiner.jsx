@@ -1,3 +1,4 @@
+import productosJson from '../../productos.json';
 import "./ItemDetailConteiner.css"
 
 const ItemDetailConteiner = ({img, title, description, price}) => {
