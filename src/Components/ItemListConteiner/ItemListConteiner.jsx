@@ -13,6 +13,10 @@ function asyncMock(categoryId) {
         const  productsFilter = productosJson.filter((item) => {
           return item.category === categoryId;
         })
+        if(productsFilter.length === 0) {
+          reject ("No products found");
+        }
+
         resolve (productsFilter)
       }
     }, 1000);
@@ -25,7 +29,9 @@ const ItemListConteiner = ({greeting}) => {
   const [productos, setProductos] = useState([]);
 
   useEffect(() => {
-    asyncMock(categoryId).then((res) => setProductos(res));
+    asyncMock(categoryId)
+    .then((res) => setProductos(res))
+    .catch ((rej) => console.log (rej)); 
   },[categoryId]);
 
   return (
