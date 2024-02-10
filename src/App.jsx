@@ -2,6 +2,7 @@ import './App.css'
 import NavBar from './Components/NavBar/NavBar'
 import ItemListConteiner from './Components/ItemListConteiner/ItemListConteiner'
 import {BrowserRouter, Routes, Route } from 'react-router-dom'
+import ItemDetailConteiner from './Components/ItemDetailConteiner/ItemDetailConteiner'
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
         <Routes>
           <Route path='/' element={ <ItemListConteiner greeting="Bienvenido a tu tienda gamer on line" />} />
           <Route path='/categoria/:categoryId' element={ <ItemListConteiner />} />
- 
+          <Route path='/item/:Id' element={ <ItemDetailConteiner />} /> 
         </Routes>
       </BrowserRouter>
 

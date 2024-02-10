@@ -6,7 +6,7 @@ return (
     <div>
         <section> 
             {productos.map( productos => (
-                <Item productos={productos}/>
+                <Item productos={productos}  key={productos.Id}/>
             ))}
         
         </section>

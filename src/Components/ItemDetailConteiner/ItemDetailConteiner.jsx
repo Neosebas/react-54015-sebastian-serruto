@@ -1,13 +1,25 @@
-import productosJson from '../../productos.json';
 import "./ItemDetailConteiner.css"
+import { useState, useEffect } from 'react';
+import { useParams } from "react-router-dom";
+import  datesById  from "../ItemListConteiner/ItemListConteiner";
+import ItemDetail from "../ItemDetail/ItemDetail";
 
-const ItemDetailConteiner = ({img, title, description, price}) => {
+const ItemDetailConteiner = () => {
+
+    const [item, setItem] = useState(null);
+    const id = useParams().id;
+
+    useEffect(() => {
+        datesById(Number(id))
+        .them ((res) =>{
+            setItem(res);
+        })
+
+    },[id]);
+
     return (
         <div>
-            <img className='img-card' src={img}/>
-            <h3>{title}</h3>
-            <p>{description}</p>
-            <p>$ {price}</p>
+            {item && <ItemDetail item={item}/>}
         </div>
     )
 

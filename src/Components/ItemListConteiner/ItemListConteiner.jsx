@@ -19,10 +19,26 @@ function asyncMock(categoryId) {
 
         resolve (productsFilter)
       }
-    }, 1000);
+    }, 1000)
   });
 }
 
+export const datesById = (id) => {
+  return new Promise((resolve, reject) => {
+    setTimeout (() => {
+      
+      const productsId = productosJson.find((id) = id.id === id)
+
+      if (productsId) {
+        resolve (productsId);
+      }else {
+        reject ({
+          error : "Product not found",
+        })
+        }
+      }, 500)
+});
+}
 
 const ItemListConteiner = ({greeting}) => {
   const {categoryId} = useParams();
