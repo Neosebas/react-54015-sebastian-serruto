@@ -7,7 +7,7 @@ return (
         <img src={productos.img} />
         <h2>{productos.title}</h2>
         <p>Precio: $ {productos.price}</p>
-        <button><Link to={'/Item/:id'}>Ver mas</Link></button>
+        <button><Link to={'Item/$productos.id'}>Ver mas</Link></button>
     </div>
 )
 }

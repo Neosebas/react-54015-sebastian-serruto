@@ -12,7 +12,7 @@ function App() {
         <Routes>
           <Route path='/' element={ <ItemListConteiner greeting="Bienvenido a tu tienda gamer on line" />} />
           <Route path='/categoria/:categoryId' element={ <ItemListConteiner />} />
-          <Route path='/item/:Id' element={ <ItemDetailConteiner />} /> 
+          <Route path='/item/:id' element={ <ItemDetailConteiner />} /> 
         </Routes>
       </BrowserRouter>
 

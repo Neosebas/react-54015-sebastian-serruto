@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
-import productosJson from '../../productos.json';
+import ProductosJson from '../../productos.json';
 import ItemList from '../ItemList/ItemList';
 import './ItemListConteiner.css'
 
@@ -8,9 +8,9 @@ function asyncMock(categoryId) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       if (categoryId === undefined) {
-        resolve (productosJson);
+        resolve (ProductosJson);
       }else {
-        const  productsFilter = productosJson.filter((item) => {
+        const  productsFilter = ProductosJson.filter((item) => {
           return item.category === categoryId;
         })
         if(productsFilter.length === 0) {
@@ -27,7 +27,7 @@ export const datesById = (id) => {
   return new Promise((resolve, reject) => {
     setTimeout (() => {
       
-      const productsId = productosJson.find((id) = id.id === id)
+      const productsId = ProductosJson.find((id) = id.id === id)
 
       if (productsId) {
         resolve (productsId);
