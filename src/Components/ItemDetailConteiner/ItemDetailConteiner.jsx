@@ -1,8 +1,8 @@
 import "./ItemDetailConteiner.css"
 import { useState, useEffect } from 'react';
 import { useParams } from "react-router-dom";
-import  datesById  from "../ItemListConteiner/ItemListConteiner";
 import ItemDetail from "../ItemDetail/ItemDetail";
+import { datesById } from "../Data/DatesById";
 
 const ItemDetailConteiner = () => {
 
@@ -11,7 +11,7 @@ const ItemDetailConteiner = () => {
 
     useEffect(() => {
         datesById(Number(id))
-        .them ((res) =>{
+        .then ((res) =>{
             setItem(res);
         })
 
