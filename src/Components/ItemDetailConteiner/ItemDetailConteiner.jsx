@@ -2,7 +2,8 @@ import "./ItemDetailConteiner.css"
 import { useState, useEffect } from 'react';
 import { useParams } from "react-router-dom";
 import ItemDetail from "../ItemDetail/ItemDetail";
-import { datesById } from "../Data/DatesById";
+import { doc, getDoc } from 'firebase/firestore';
+import { db } from "../../Config/Config";
 
 const ItemDetailConteiner = () => {
 
@@ -10,10 +11,15 @@ const ItemDetailConteiner = () => {
     const id = useParams().id;
 
     useEffect(() => {
-        datesById(Number(id))
-        .then ((res) =>{
-            setItem(res);
+        
+        const docRef = doc(db, "productos", id);
+        getDoc(docRef)
+        .then ((resp) => {
+            setItem(
+                {...resp.data(), id: resp.id}
+            );
         })
+        
 
     },[id]);
 
