@@ -27,7 +27,7 @@ export const CartProvider = (props) => {
     };
 
     const empty = () => {
-    setCart([]);
+        setCart([]);
     };
 
     return (
