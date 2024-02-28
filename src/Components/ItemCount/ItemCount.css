@@ -1,0 +1,20 @@
+.containerCount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+}
+.containerCount button {
+    color: #000000;
+}
+.count {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+.count p {
+    font-weight: 700;
+    margin: 0;
+}

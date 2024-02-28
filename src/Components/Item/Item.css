@@ -4,14 +4,30 @@
     border: .125rem solid #ffffff;
     padding: .5rem;
     margin: .5rem;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
 }
 
-.itemConteiner img {
+.imgProduct {
     width: 12.5rem;
     height: 12.5rem;
+    display: flex;
+    align-self: center;
+
+}
+.imgProduct img {
+    width: 100%;
+    height: 100%;
+}
+.h2Product {
+    width: 13rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
 }
 
-h2 {
+.h2Product h2 {
     padding: .5rem;
     font-size: 1rem;
     color: #ffffff;

@@ -1,10 +1,10 @@
-
+import './ItemCount.css';
 
 const ItemCount = ({cantidad, clickSubstract, clickAddition, clickAdd}) => {
 
     return (
-        <div>
-            <div>
+        <div className='containerCount'>
+            <div className="count">
                 <button onClick={clickSubstract}>-</button>
                 <p>{cantidad}</p>
             <button onClick={clickAddition}>+</button>
