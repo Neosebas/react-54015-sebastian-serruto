@@ -24,9 +24,9 @@ const ItemDetailConteiner = () => {
     },[id]);
 
     return (
-        <div>
+        <>
             {item && <ItemDetail item={item}/>}
-        </div>
+        </>
     )
 
 }
