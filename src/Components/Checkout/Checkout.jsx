@@ -3,6 +3,7 @@ import { CartContext } from '../../Context/CartContext';
 import { useForm } from 'react-hook-form';
 import { collection, addDoc } from 'firebase/firestore';
 import { db } from '../../Config/Config';
+import './Checkout.css'
 
 
 const Checkout = () => {
@@ -33,7 +34,7 @@ const Checkout = () => {
 
   if (orderId) {
     return (
-      <div>
+      <div className='containerCheckout'>
         <h2>Gracias por tu compra!</h2>
         <p>Tu numero de orden es: {orderId}</p>
       </div>
@@ -42,10 +43,10 @@ const Checkout = () => {
   }
 
   return (
-    <div>
+    <div className='containerCheckout'>
 
       <h1>Finalizar Compra</h1>
-      <form onSubmit={handleSubmit(buy)}>
+      <form onSubmit={handleSubmit(buy)} className='containerForm'>
 
         <input type="text" placeholder='Ingresa tu nombre' {...register("nombre")} />
         <input type="email" placeholder='Ingresa tu e-mail' {...register("email")} />
