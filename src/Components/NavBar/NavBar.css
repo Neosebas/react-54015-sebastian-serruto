@@ -18,3 +18,62 @@ nav a {
     display: flex;
     color: #000000;
 }
+
+.navbarD {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.navLinks{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.navToggle {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .navLinks {
+        position: absolute;
+        top: 6rem;
+        left: 0;
+        background: #ffffff;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: calc(100vh - 6rem);
+        transform: translate(-100%);
+        transition: 2s ease all;
+    }
+    .navLinks.active {
+        transform: translate(0);
+    }
+    .navToggle {
+        display: flex;
+        flex-direction: column;
+        margin: .9375rem;
+    }
+    .navToggle.active > span {
+        transform: rotate(45deg) translate(0px, 0px);
+    }
+    .navToggle.active > span:nth-child(2) {
+        display: none;
+    }
+    .navToggle.active > span:nth-child(3) {
+        transform: rotate(-45deg) translate(-5px, 1px);
+    }
+    .navToggle span {
+        width: 1.875rem;
+        height: .25rem;
+        background: #000000;
+        margin-bottom: .3125rem;
+        border-radius: .125rem;
+        transform-origin: .3125rem 0;
+        transition: all .8s linear;
+    }
+
+}
